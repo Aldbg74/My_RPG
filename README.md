@@ -1,6 +1,7 @@
 <H1>🖥️ MY RPG 🖥️</H1>
 My_RPG is the last first year Epitech project. <br>
 It's a Graphical Project <br>
+Project made with Raphael.O and Marin.L
 
 <H1>🎯 GOALS 🎯</H1>
 The objective of the project was to create a RPG Game <br>
